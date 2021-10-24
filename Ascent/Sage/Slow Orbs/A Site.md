@@ -1,5 +1,5 @@
 ## Generator(Standing):
-![image](https://user-images.githubusercontent.com/81629958/138579367-f7987c4e-4267-4843-9b30-753d141b244d.png)
+![image](https://user-images.githubusercontent.com/81629958/138579600-0dff5b92-0ab1-4657-905b-32be637cb969.png)
 
 ## Green Boxes
-![image](https://user-images.githubusercontent.com/81629958/138579437-a2b175c8-8fc1-46b7-8489-572238067f70.png)
+![image](https://user-images.githubusercontent.com/81629958/138579554-330942d8-f90f-44ed-9753-411013d33285.png)
